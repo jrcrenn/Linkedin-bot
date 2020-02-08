@@ -1,0 +1,30 @@
+{
+    "data_files": {
+        "added": "data/added.json",
+        "removed": "data/removed.json",
+        "enqueued": "data/enqueued.json"
+    },
+    "session_key": "momo.rachid69200@outlook.fr",
+    "session_password": "aA92rR120",
+    "wait_time": 1800,
+    "wait_time_variance": 200,
+    "working_hours": [
+        {
+            "start": 9,
+            "end": 12
+        },
+        {
+            "start": 13,
+            "end": 20
+        }
+    ],
+    "working_days": [
+        {
+            "start": 0,
+            "end": 5
+        }
+    ],
+    "headless": false,
+    "log_level": "DEBUG",
+    "message": "Bonjour $name je suis un bot qui cherche un stage pour un premier annnée a Epitech"
+}
